@@ -2,6 +2,8 @@
 
 Machine learning project for predicting customer response to Starbucks Rewards offers using simulated mobile app event data.
 
+Blog post: [Predicting Starbucks Offer Response with Machine Learning](https://medium.com/@renan.cuoghi/predicting-starbucks-offer-response-with-machine-learning-f9d62641a639)
+
 ## Project Overview
 
 Starbucks periodically sends mobile app users different offer types, including BOGO, discount, and informational offers. Not every customer receives the same offer, and not every customer responds.
